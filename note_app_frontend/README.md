@@ -24,8 +24,8 @@ This is the frontend of the Note-Taking app, built using React.
 
 Clone the repository:
    ```bash
-   git clone https://github.com/logmar98/note-taking-app.git
-   cd frontend
+   git clone https://github.com/logmar98/notetaking.git
+   cd note_app_frontend
    npm install
    npm start
    ```

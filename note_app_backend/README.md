@@ -1,4 +1,4 @@
-```markdown
+
 # Note-Taking App - Backend
 
 This is the backend for the Note-Taking app, built with Python Flask and SQLAlchemy.
@@ -27,8 +27,8 @@ This is the backend for the Note-Taking app, built with Python Flask and SQLAlch
 
 Clone the repository:
    ```bash
-   git clone https://github.com/logmar98/note-taking-app.git
-   cd backend
+   git clone https://github.com/logmar98/notetaking.git
+   cd note_app_backend
    python -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
