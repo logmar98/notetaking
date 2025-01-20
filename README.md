@@ -2,6 +2,8 @@
 
 This is a full-stack note-taking application built with React for the frontend and Python Flask for the backend. Users can register, log in, and manage notes with features like create, edit, delete, pin, and search.
 
+https://github.com/user-attachments/assets/87b3f7c1-b329-4c34-83bd-3548150626aa
+
 ## Features
 - **User Authentication**: Secure registration and login
 - **Note Management**: Create, edit, delete, and pin notes
